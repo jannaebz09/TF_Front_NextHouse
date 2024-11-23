@@ -6,41 +6,41 @@ body, html {
 
 h1 {
   font-size: 40px; /* Ajusta según tu preferencia */
-  color: #D0C08C; /* Color mostaza */
+  color: saddlebrown; /* Color del texto */
   font-family: 'Times New Roman', sans-serif;
 }
 
 h2 {
   font-size: 40px; /* Ajusta según tu preferencia */
   font-family: 'Times New Roman', sans-serif;
-  color: #D0C08C; /* Color mostaza */
+  color: saddlebrown; /* Color del texto */
 }
 
 h3 {
   font-size: 40px; /* Ajusta según tu preferencia */
   font-family: 'Times New Roman', sans-serif;
-  color: #D0C08C; /* Color mostaza */
+  color: saddlebrown; /* Color del texto */
 }
 
 h4 {
   font-size: 40px; /* Ajusta según tu preferencia */
   margin-top: 20px;
   font-family: 'Times New Roman', sans-serif;
-  color: #D0C08C; /* Color mostaza */
+  color: saddlebrown; /* Color del texto */
 }
 
 h5 {
   font-size: 40px; /* Ajusta según tu preferencia */
   margin-top: 20px;
   font-family: 'Times New Roman', sans-serif;
-  color: #D0C08C; /* Color mostaza */
+  color: saddlebrown; /* Color del texto */
 }
 
 h6 {
   margin-top: 20px;
   font-size: 40px; /* Ajusta según tu preferencia */
   font-family: 'Times New Roman', sans-serif;
-  color: #D0C08C; /* Color mostaza */
+  color: saddlebrown; /* Color del texto */
 }
 
 iframe {
@@ -260,5 +260,5 @@ iframe {
   height: 200px; /* Ajusta la altura de la imagen para que sea uniforme */
   object-fit: cover; /* Asegura que la imagen cubra el área sin distorsionarse */
   border-radius: 50%; /* Hace que la imagen sea redonda */
-  margin-bottom: 10px; /* Espacio entre la imagen y el texto */
+  margin-bottom: 10px; /* Espacio entre la imagen y el texto */
 }
